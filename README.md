@@ -468,3 +468,4 @@ MIT
 
 [^1]: See [protocol specification](https://github.com/heiher/hev-socks5-core/tree/main?tab=readme-ov-file#udp-in-tcp). The [hev-socks5-server](https://github.com/heiher/hev-socks5-server) supports UDP relay over TCP.
 [^2]: See [Application.mk](https://github.com/heiher/sockstun/blob/12830d444fe60ad1c5d68ea6e60ec141cd2c6d97/app/src/main/jni/Application.mk#L19)
+test
